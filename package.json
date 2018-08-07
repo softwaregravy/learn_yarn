@@ -1,0 +1,9 @@
+{
+  "name": "learn_yarn",
+  "version": "1.0.0",
+  "description": "playing around with yarn",
+  "main": "index.js",
+  "repository": "git@github.com:softwaregravy/learn_yarn.git",
+  "author": "softwaregravy",
+  "license": "MIT"
+}
